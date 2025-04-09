@@ -19,4 +19,12 @@ such as castling, draw, and similar are still missing.
 ![Static Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ## Preview
-### Interface: 
+### Menu: 
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/2495ab8a-849e-4d9d-9b57-d4cfaeb47f1a" />
+
+### Guide: 
+<img width="478" alt="image" src="https://github.com/user-attachments/assets/2ade4eea-2a79-4dd1-8edf-f4ac3cdd0d30" />
+
+### Chessboard: 
+<img width="409" alt="image" src="https://github.com/user-attachments/assets/2d79b89c-0c84-4538-a0d6-ff72b38f179a" />
+
